@@ -1,0 +1,13 @@
+services:
+  dictionaryapi:
+    image: dictionaryapi
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8081:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - MongoDBSettings:ConnectionString=mongodb+srv://julianofcaetano:vsCZXV0iaSHTuzyA@clusterdict.msxlw.mongodb.net/?retryWrites=true&w=majority
+      - MongoDBSettings:DatabaseName=ClusterDict
+      - MongoDBSettings:WordsCollectionName=Words
