@@ -502,3 +502,7 @@ C:\Users\julia\DictionaryCoodesh\DictionaryApi\obj\Debug\net8.0\refint\Dictionar
 C:\Users\julia\DictionaryCoodesh\DictionaryApi\obj\Debug\net8.0\DictionaryApi.pdb
 C:\Users\julia\DictionaryCoodesh\DictionaryApi\obj\Debug\net8.0\DictionaryApi.genruntimeconfig.cache
 C:\Users\julia\DictionaryCoodesh\DictionaryApi\obj\Debug\net8.0\ref\DictionaryApi.dll
+C:\Users\julia\DictionaryCoodesh\DictionaryApi\obj\Debug\net8.0\DictionaryApi.sourcelink.json
+C:\Users\julia\DictionaryCoodesh\DictionaryApi\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
+C:\Users\julia\DictionaryCoodesh\DictionaryApi\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\julia\DictionaryCoodesh\DictionaryApi\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
