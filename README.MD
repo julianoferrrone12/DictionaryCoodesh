@@ -36,7 +36,7 @@ Os demais basta seguir o passo a passo de instalação na documentação disponi
 ### 🏃‍♂️ Getting Started
 
 - Clone o repositório em sua máquina: `git clone https://github.com/julianoferrrone12/DictionaryCoodesh.git` <br />
-- Na pasta em que foi clonado o repositório acesse o diretório correto: "cd DictionaryApi".
+- Na pasta em que foi clonado o repositório acesse o diretório correto: `cd DictionaryApi`.
 - Com o Docker Desktop rodando em sua maquina basta rodar o comando `make infra-local` que o container do docker com sua Api estará rodando.
 - Clique para acessar o [Swagger](http://localhost:8081/swagger/index.html) e utilizar a Api.
 - A documentação OpenApi pode ser visualizada no arquivo `apenapi.yaml`
