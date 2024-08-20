@@ -54,7 +54,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Para os ícones foi o utilizado o [Font Awesome](https://fontawesome.com)
 
-### Getting Started
+### 🏃‍♂️ Getting Started
 
 - ❗Caso ja tenha feito isso para o backend não precisa repetir esse passo❗<br />Clone o repositório em sua máquina: `git clone https://github.com/julianoferrrone12/DictionaryCoodesh.git` 
 <br />
@@ -62,5 +62,6 @@ Para os ícones foi o utilizado o [Font Awesome](https://fontawesome.com)
 - É necessário instalar as dependências do projeto, que são especificadas no arquivo package.json. Para isso vamos utilizar o gerenciador de pacotes Node.js, execute o comando no terminal: `npm install`. Este comando vai baixar todas as dependências necessárias para o projeto funcionar corretamente.
 - Depois que as dependências estiverem instaladas, o projeto pode ser executado localmente. O comando padrão para iniciar um projeto Angular é: `npm start`. Isso irá compilar o projeto e iniciar um servidor de desenvolvimento. O terminal mostrará uma URL, geralmente http://localhost:3000/, que pode ser aberta no navegador para visualizar o aplicativo.
 
+### Para informações técnicas do projeto desenvolvidos acessar as [Wiki Docs do repositório](https://github.com/julianoferrrone12/DictionaryCoodesh/wiki)
 
 ## 🚩 The End
