@@ -54,7 +54,7 @@ const MainLayout = () => {
                             },
                         }}
                     >
-                        <Tab label="Words" component={Link} to="/" />
+                        <Tab label="Words" component={Link} to="/wordlist" />
                         <Tab label="Favorites" component={Link} to="/favorites" />
                         <Tab label="History" component={Link} to="/history" />
                     </Tabs>
