@@ -36,7 +36,7 @@ Os demais basta seguir o passo a passo de instalação na documentação disponi
 ### 🏃‍♂️ Getting Started
 
 - Clone o repositório em sua máquina: `git clone https://github.com/julianoferrrone12/DictionaryCoodesh.git` <br />
-- Na pasta em que foi clonado o repositório acesse o diretório correto: `cd DictionaryApi`.
+- Na pasta em que foi clonado o repositório (`cd DictionaryCoodesh`) acesse o diretório correto: `cd DictionaryApi`.
 - Com o Docker Desktop rodando em sua maquina basta rodar o comando `make infra-local` que o container do docker com sua Api estará rodando.
 - Clique para acessar o [Swagger](http://localhost:8081/swagger/index.html) e utilizar a Api.
 - A documentação OpenApi pode ser visualizada no arquivo `apenapi.yaml`
@@ -57,7 +57,7 @@ Para os ícones foi o utilizado o [Font Awesome](https://fontawesome.com)
 ### 🏃‍♂️ Getting Started
 
 - ❗Caso ja tenha feito isso para o backend não precisa repetir esse passo❗<br />Clone o repositório em sua máquina: `git clone https://github.com/julianoferrrone12/DictionaryCoodesh.git` 
-- Na pasta em que foi clonado o repositório acesse o diretório correto: `cd dictionary-app`.
+- Na pasta em que foi clonado o repositório (`cd DictionaryCoodesh`) acesse o diretório correto: `cd dictionary-app`.
 - É necessário instalar as dependências do projeto, que são especificadas no arquivo package.json. Para isso vamos utilizar o gerenciador de pacotes Node.js, execute o comando no terminal: `npm install`. Este comando vai baixar todas as dependências necessárias para o projeto funcionar corretamente.
 - Depois que as dependências estiverem instaladas, o projeto pode ser executado localmente. O comando padrão para iniciar um projeto Angular é: `npm start`. Isso irá compilar o projeto e iniciar um servidor de desenvolvimento. O terminal mostrará uma URL, geralmente http://localhost:3000/, que pode ser aberta no navegador para visualizar o aplicativo.
 
